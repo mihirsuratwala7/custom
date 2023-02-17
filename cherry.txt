@@ -1,4 +1,7 @@
 This is cherry pick file
 
+<<<<<<< HEAD
 This is edited cherry pick file
 
+=======
+>>>>>>> aae6a7a (added cherry.txt file)
